@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordtringify",
+        "uuid": 1356872,
+        "checksum": "5y4f0i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
